@@ -69,7 +69,19 @@ public function canAccessPanel(Panel $panel): bool
 
 Create a user table based on the existing `User` model: `php artisan make:filament-resource User --generate`
 
+# Next steps
+
+- https://filamentphp.com/docs/3.x/panels/resources/getting-started
+
+`php artisan make:filament-resource ModelName --generate --view`
+
 # Other tutorials
 
+- https://filamentphp.com/docs/3.x/panels/resources/creating-records
+- https://filamentphp.com/docs/3.x/panels/resources/editing-record
+- https://filamentphp.com/docs/3.x/forms/advanced
+- https://filamentphp.com/docs/3.x/panels/resources/relation-managers
+- https://www.youtube.com/watch?v=FdkOwWZUf2I
+    - https://filamentphp.com/docs/3.x/infolists/entries/getting-started
 - https://www.youtube.com/watch?v=wGu8lgaK_v8
 - https://www.youtube.com/watch?v=ujUhXLVqOO0
